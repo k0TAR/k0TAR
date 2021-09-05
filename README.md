@@ -1,7 +1,7 @@
 
 <div style="
-  width          : 380px;                /* BOXの幅             */
-  display        : flex;                 /* FlexBox定義         */
+  width          : 380px;
+  display        : flex;
   ">
 
   <div style="
