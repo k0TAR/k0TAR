@@ -7,7 +7,7 @@
   max-height     : 300px;                /* BOXの高さ           */
   display        : flex;                 /* FlexBox定義         */
   flex-wrap      : wrap;                 /* 折り返し定義        */
-  " id="makeImg">
+  ">
 
   <div style="
   box-sizing     : border-box; 
