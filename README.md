@@ -1,7 +1,5 @@
 
 <div style="
-  margin         : auto;                 /* サンプル用 中央寄せ */
-  box-sizing     : border-box;           /* 罫線も含む長さ      */
   width          : 380px;                /* BOXの幅             */
   display        : flex;                 /* FlexBox定義         */
   ">
